@@ -34,8 +34,7 @@ The following resources were used to compile, write, and test data:
 ## Election Audit Summary:  
 
 Using the analysis, we can infer that Denver went primarily for Diana DeGette, having won over 73% of the vote and Denver casting over 82% of the overall vote.  
-The script, as written, could be used for other analysis where values based on percentage are needed such as how many votes in which county were cast for a specific  
-candidate.  
+The script, as written, could be used for other analysis where values based on percentage are needed; such as how many votes in which county were cast for a specific candidate.  
 Also with a little modification, if given the data set of the households in Colorado, whether they vote Democrat or Republican,  
 we would only need to modify the script to show instead of "Candidate", you would have "Party Affiliation".  
 We could even take it further to analyze how different counties vote during which election cycle as long, as the  
