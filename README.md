@@ -17,7 +17,7 @@ The following resources were used to compile, write, and test data:
 	- Software: Python 3.9; Visual Studio Code 1.57.1
 
 
-## Election Analysis:  
+## Election Audit Results:  
 	- Total votes cast were 369,711  
 	- Results by county were:  
 		**County**	**Percentage of Votes**		**Total Votes**  
